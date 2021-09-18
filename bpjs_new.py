@@ -1,7 +1,7 @@
 import telebot
 import requests
 from datetime import date
-
+print('RUNNING BPJS_NEW')
 TOKEN = "1933114045:AAHoOrHhzmLmvb27yD1yPgaxfgp1z9yjJp4"
 bot = telebot.TeleBot(token=TOKEN)
 antrian = 1
