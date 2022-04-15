@@ -4,7 +4,7 @@ from datetime import date
 print('RUNNING REPLAY')
 today = date.today()
 token = '1933114045:AAHoOrHhzmLmvb27yD1yPgaxfgp1z9yjJp4'
-data = []
+data = [] 
 lastFirstData = []
 
 def send_msg(text,id):
